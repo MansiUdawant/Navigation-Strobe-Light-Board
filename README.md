@@ -22,7 +22,9 @@ The project covers schematic design, PCB layout, component placement, and PCB ma
 
 ### Circuit Schematic
 
-![Circuit Schematic](Schematic_Final_Strobe_Light.png)
+## Circuit Schematic
+
+![Circuit Schematic](Schematic_Final_Strobe_Light_.png)
 
 ## Features
 
